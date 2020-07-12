@@ -39,15 +39,14 @@ Visit https://tu.hin.life
 
 ------------
 
-**Now You can use GDrive CLI:**
-
+**Now You can use GDrive CLI:**<br>
 Visit https://github.com/gdrive-org/gdrive for Help.
 
 ------------
 
-This GDrive is configured using my ClientId & ClientSecret. So, you will get a Not Verified App Prompt.
+This GDrive is configured using my ClientId & ClientSecret. So, you will get a Not Verified App Prompt.<br>
 
-To configure using your own ClientId & ClientSecret, Read the article:
+To configure using your own ClientId & ClientSecret, Read the article:<br>
 https://www.mynotepaper.com/mount-google-drive-using-gdrive-on-linux-server-with-own-oauth-credentials
 
 # peace
