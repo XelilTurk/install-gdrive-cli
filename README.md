@@ -2,7 +2,7 @@
 
 **To install G-Drive CLI:**
 
-**1.** Login as root
+**1.** Login as root<br>
 **2.** Copy these Lines and Paste into Terminal
 ```bash
 wget https://github.com/cachecleanerjeet/install-gdrive-cli/raw/master/install.sh
@@ -13,7 +13,7 @@ bash install.sh
 
 ------------
 
-You will get Output Like this:
+**You will get Output Like this:**
 ```bash
 root@tuhin:~$ bash install.sh
 --2020-07-12 15:45:19--  https://github.com/cachecleanerjeet/install-gdrive-cli/raw/upload/gdrive
