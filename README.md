@@ -7,9 +7,9 @@
 ```bash
 curl -sSL https://git.io/JJZnz | bash
 ```
-------------
-<b>Or</b>
-------------
+
+<b>Or,</b>
+
 
 ```bash
 wget https://github.com/cachecleanerjeet/install-gdrive-cli/raw/master/install.sh
