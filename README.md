@@ -5,12 +5,10 @@
 **1.** Login as root<br>
 **2.** Copy these Lines and Paste into Terminal
 ```bash
-wget https://github.com/cachecleanerjeet/install-gdrive-cli/raw/master/install.sh
-chmod +x install.sh
-bash install.sh
+curl -sSL https://git.io/JJZnz | bash
 ```
 ------------
-<b>or,</b>
+<b>Or</b>
 ------------
 
 ```bash
