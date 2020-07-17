@@ -9,8 +9,15 @@ wget https://github.com/cachecleanerjeet/install-gdrive-cli/raw/master/install.s
 chmod +x install.sh
 bash install.sh
 ```
+------------
+<b>or,</b>
+------------
 
-
+```bash
+wget https://github.com/cachecleanerjeet/install-gdrive-cli/raw/master/install.sh
+chmod +x install.sh
+bash install.sh
+```
 ------------
 
 **You will get Output Like this:**
