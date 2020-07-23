@@ -56,14 +56,7 @@ Id                             Name                    Type   Size     Created
 0B3X9GlR6Embnb095MGxEYmJhY2c   drive-linux-x64         bin    6.5 MB   2015-07-18 16:43:38
 ```
 
-#### List largest files
-```
-$ gdrive list --query "name contains 'gdrive'" --order "quotaBytesUsed desc" -m 3
-Id                             Name                     Type   Size     Created
-0B3X9GlR6EmbnZXpDRG1xblM2LTg   gdrive-linux-mips64      bin    8.5 MB   2016-02-22 21:07:04
-0B3X9GlR6EmbnNW5CTV8xdFkxTjg   gdrive-linux-mips64le    bin    8.5 MB   2016-02-22 21:07:07
-0B3X9GlR6EmbnZ1NGS25FdEVlWEk   gdrive-osx-x64           bin    8.3 MB   2016-02-21 20:22:13
-```
+
 
 #### Upload file
 ```
@@ -98,18 +91,8 @@ $ gdrive share 0B3X9GlR6EmbnNTk0SkV0bm5Hd0E
 Granted reader permission to anyone
 ```
 
-#### Pipe content directly to google drive
-```
-$ echo "Hello World" | gdrive upload - hello.txt
-Uploading hello.txt
-Uploaded 0B3X9GlR6EmbnaXVrOUpIcWlUS0E at 8.0 B/s, total 12.0 B
-```
 
-#### Print file to stdout
-```
-$ gdrive download --stdout 0B3X9GlR6EmbnaXVrOUpIcWlUS0E
-Hello World
-```
+
 
 #### Get file info
 ```
